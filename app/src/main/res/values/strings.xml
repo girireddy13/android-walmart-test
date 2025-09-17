@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Countries App</string>
+    <string name="countries_title">Countries List</string>
+    <string name="error_loading">Error loading countries</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading countries...</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="server_error">Server error occurred</string>
+    <string name="unknown_error">An unknown error occurred</string>
+</resources>
