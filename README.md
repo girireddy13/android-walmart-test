@@ -5,7 +5,7 @@ This Android application displays a list of countries in a table format using Re
 
 ## Features Implemented
 
-### ✅ Core Requirements
+###  Core Requirements
 1. **Countries Data Display**: Shows countries data in the exact format specified in requirements
 2. **Table Format Display**: Structured table with columns for Name, Region, Code, and Capital
 3. **RecyclerView Implementation**: Efficient scrolling through the entire countries list
@@ -13,7 +13,7 @@ This Android application displays a list of countries in a table format using Re
 5. **Error Handling**: Comprehensive error handling for various scenarios
 6. **Device Rotation Support**: Data persists across configuration changes using ViewModel
 
-### ✅ Technical Implementation
+###  Technical Implementation
 
 #### Architecture
 - **MVVM Pattern**: Clean separation of concerns using Model-View-ViewModel architecture
